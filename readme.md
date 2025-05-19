@@ -126,7 +126,7 @@ pip install -r requirements.txt
 
 Este projeto foi criado para facilitar auditoria, compliance e extração em massa de dados públicos da CVM, superando obstáculos artificiais como CAPTCHAs simples.
 
-
+![Tela do sistema](Print.png)
 
 ## 📃 requirements.txt
 
@@ -144,4 +144,4 @@ numpy>=1.21,<2.0
 
 tkinter geralmente já vem com o Python, não precisa instalar via pip
 
-![Tela do sistema](Print.png)
+

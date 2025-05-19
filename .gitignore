@@ -1,0 +1,7 @@
+# Ignorar todos os arquivos das pastas
+formularios/*
+captchas/*
+
+# Mas manter a estrutura das pastas
+!formularios/.gitkeep
+!captchas/.gitkeep

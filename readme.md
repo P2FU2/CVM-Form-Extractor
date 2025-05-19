@@ -142,4 +142,6 @@ opencv-python>=4.5,<5.0
 pytesseract>=0.3,<0.4
 numpy>=1.21,<2.0
 
-# tkinter geralmente já vem com o Python, não precisa instalar via pip
+tkinter geralmente já vem com o Python, não precisa instalar via pip
+
+![Tela do sistema](Print.png)
